@@ -7,7 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class MssApplication {
 
 	public static void main(String[] args) {
-		System.out.println(224);
+		System.out.println(24);
 		SpringApplication.run(MssApplication.class, args);
 	}
 
